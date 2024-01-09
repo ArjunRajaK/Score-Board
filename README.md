@@ -8,6 +8,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 
 ## App
 
+* Developed angular application
 * Used tooltip for more easy interaction
 * Closure used for reusability when we want to add the same chart in a different component you need to use the same function with the DOM element ID with required data then it will automatically render
 

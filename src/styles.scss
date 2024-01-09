@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+$font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+$font-weight: 700;
+.tick line {
+    visibility: hidden;
+}
+
+.tick text, .label, .toolTip {
+    font-weight: $font-weight;
+    font-family: $font-family;
+    color: gray;
+}
